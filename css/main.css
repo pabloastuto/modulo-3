@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+.jumbotron {
+    background-color: #FFB6FA;
+    color: black;
+    margin-top: 30px;
+}
+.breadcrumb{
+	background-color: #FFB6FA; 
+}
+
+.btn-danger{
+	background-color: #FFB6FA;
+	border: none;
+	color: black;
+}
+
+.table-striped{
+	background-color:#FDDCFB;
+}
+
+.thead{
+	background: #FFB6FA;
+}
+
+.btn{
+	background-color: #FFB6FA; 
+}
+
+a:link {
+  	color: black;
+	text-decoration: none;
+}
+
+a:visited {
+  	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+a:active {
+	color: black;
+	text-decoration: none;
+}
+
+footer {
+    padding: 10px 10px 10px;
+    background-color: #FFB6FA;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+.footer-adreess-icon {
+	padding-right: 10px;
+}
